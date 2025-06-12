@@ -6,7 +6,7 @@ A modern, responsive single-page business website template built with HTML and C
 
 ## 🚀 Live Preview
 
-> [Click here to view the live demo](https://your-username.github.io/your-repo-name/)  
+> [Click here to view the live demo](https://your-username.github.io/mini-busisness/)  
 *(Update with your GitHub Pages link once deployed)*
 
 ---
@@ -41,23 +41,23 @@ A modern, responsive single-page business website template built with HTML and C
 
 3. Customize the content:
 
--Replace text, colors, or services in index.html
+- Replace text, colors, or services in index.html
 
--Modify styles in style.css
+- Modify styles in style.css
 
 4. Set up the contact form:
 
--Sign up at Formspree (or similar)
+- Sign up at Formspree (or similar)
 
--Replace the action URL in the <form> with your Formspree endpoint
+- Replace the action URL in the <form> with your Formspree endpoint
 
 5. Deploy your site (choose one):
 
--GitHub Pages: Push to a public repo, then enable GitHub Pages in settings
+- GitHub Pages: Push to a public repo, then enable GitHub Pages in settings
 
--Netlify: Drag and drop your folder to Netlify
+- Netlify: Drag and drop your folder to Netlify
 
--Vercel: Connect repo at Vercel
+- Vercel: Connect repo at Vercel
 
 ---
 
@@ -76,12 +76,12 @@ This project is open source and available under the MIT License.
 ## 💬 A Note
 This template is meant to be a fast, minimal starting point. You can expand it with:
 
--JavaScript for interactivity
+- JavaScript for interactivity
 
--Animations
+- Animations
 
--More pages (portfolio, testimonials, blog, etc.)
+- More pages (portfolio, testimonials, blog, etc.)
 
 ---
-*THANKS*
+*THANK YOU FOR VISITING!*
 ---
