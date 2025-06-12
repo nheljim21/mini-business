@@ -24,10 +24,10 @@ A modern, responsive single-page business website template built with HTML and C
 ## 📁 Project Structure
 
 /nova-studio
-│
-├── index.html # Main HTML file
-├── style.css # External stylesheet
-└── assets/ # (Optional) Images or icons
+ │
+ ├── index.html # Main HTML file
+ ├── style.css # External stylesheet
+ └── assets/ # (Optional) Images or icons
 
 
 ---
@@ -37,27 +37,20 @@ A modern, responsive single-page business website template built with HTML and C
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-2. Open index.html in your browser to preview locally.
+2. **Open index.html in your browser to preview locally.**
 
-3. Customize the content:
+3. **Customize the content:**
+  - Replace text, colors, or services in index.html
+  - Modify styles in style.css
 
-- Replace text, colors, or services in index.html
-
-- Modify styles in style.css
-
-4. Set up the contact form:
-
+4. **Set up the contact form:**
 - Sign up at Formspree (or similar)
-
 - Replace the action URL in the <form> with your Formspree endpoint
 
-5. Deploy your site (choose one):
-
+5. **Deploy your site (choose one):**
 - GitHub Pages: Push to a public repo, then enable GitHub Pages in settings
-
 - Netlify: Drag and drop your folder to Netlify
-
-- Vercel: Connect repo at Vercel
+ - Vercel: Connect repo at Vercel
 
 ---
 
