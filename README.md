@@ -56,13 +56,14 @@ A modern, responsive single-page business website template built with HTML and C
 
 ## 🖼 Screenshot
 
-![Website Screenshot](assets/screenshot.png)
+![Website Screenshot](![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4)
+)
 
 
 ---
 
 ## 📄 License
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
