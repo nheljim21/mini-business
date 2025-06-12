@@ -24,10 +24,10 @@ A modern, responsive single-page business website template built with HTML and C
 ## 📁 Project Structure
 
 /nova-studio
- │
- ├── index.html # Main HTML file
- ├── style.css # External stylesheet
- └── assets/ # (Optional) Images or icons
+  │
+  ├── index.html # Main HTML file
+  ├── style.css # External stylesheet
+  └── assets/ # (Optional) Images or icons
 
 
 ---
@@ -56,7 +56,7 @@ A modern, responsive single-page business website template built with HTML and C
 
 ## 🖼 Screenshot
 
-![Website Screenshot]![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4)(![Screenshot (38)](https://github.com/user-attachments/assets/9e89b17f-a613-4d40-8f4a-b71659779cbd)
+![Website Screenshot]![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4)![Screenshot (38)](https://github.com/user-attachments/assets/9e89b17f-a613-4d40-8f4a-b71659779cbd)
 
 
 
