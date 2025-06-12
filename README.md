@@ -56,8 +56,7 @@ A modern, responsive single-page business website template built with HTML and C
 
 ## 🖼 Screenshot
 
-![Website Screenshot]![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4![Screenshot (38)](https://github.com/user-attachments/assets/c194814c-6d09-4c12-9cd5-2c9354f627cf)
-)()
+![Website Screenshot]![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4)(![Screenshot (38)](https://github.com/user-attachments/assets/9e89b17f-a613-4d40-8f4a-b71659779cbd)
 
 
 
