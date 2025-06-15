@@ -6,7 +6,7 @@ A modern, responsive single-page business website template built with HTML and C
 
 ## 🚀 Live Preview
 
-> [Click here to view the live demo](https://your-username.github.io/mini-business/)  
+> [Click here to view the live demo](https://nheljim21.github.io/mini-business/)  
 *(Update with your GitHub Pages link once deployed)*
 
 ---
@@ -56,7 +56,7 @@ A modern, responsive single-page business website template built with HTML and C
 
 ## 🖼 Screenshot
 
-![Website Screenshot]![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4)![Screenshot (38)](https://github.com/user-attachments/assets/9e89b17f-a613-4d40-8f4a-b71659779cbd)
+![Screenshot (37)](https://github.com/user-attachments/assets/932520e6-0bb1-4dda-a4cb-191690ff6ea4)![Screenshot (38)](https://github.com/user-attachments/assets/9e89b17f-a613-4d40-8f4a-b71659779cbd)
 
 
 
